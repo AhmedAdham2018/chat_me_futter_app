@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817356247252",
+    "firebase_url": "https://chat-me-37d93.firebaseio.com",
+    "project_id": "chat-me-37d93",
+    "storage_bucket": "chat-me-37d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817356247252:android:66d5a9610ad2e6d37aeb41",
+        "android_client_info": {
+          "package_name": "com.adham.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817356247252-uc6e6s84otro27kulem16q02uk6citm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiui71BwWf9QomZZRHHh62RoKucT0jSMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817356247252-uc6e6s84otro27kulem16q02uk6citm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
